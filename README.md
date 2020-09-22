@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website about fishing
 
-You can use the [editor on GitHub](https://github.com/savagejon23/Fishing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Fishing can be relaxing and it can help you learn different types of fish and lures to catch those types of fish. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
